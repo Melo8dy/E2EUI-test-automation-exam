@@ -3,7 +3,7 @@ E2E User Interface testing for creating a bank account
 
 This is an example project using cucumber-js and selenium-webdriver to run browser-based automated tests, in both desktop Chrome.
 
-## Dependencies
+# Dependencies
 
 tool|function|location
 :---|:---|:---
@@ -11,11 +11,11 @@ tool|function|location
 `grunt`|Grunt Javascript task runner|https://gruntjs.com/
 
 
-## Running the tests on the desktop
+# Running the tests on the desktop
 
 To get going, you just need to install npm.
 
-## Setup Config files
+# Setup Config files
 
 To run the tests you will require some config files, please let me know if you are missing them. 
 
